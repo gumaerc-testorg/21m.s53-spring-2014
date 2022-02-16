@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: dbc0ee52-ebc3-2b0a-7e5f-4267b5bbd12d
 ---
@@ -36,20 +38,6 @@ None
 ### Offered
 
 _21M.S53 Chinese Popular Musics in Dialogue_ was offered for the first time in Spring 2014 as an experimental special subject, not part of the regular department curriculum.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A typical classroom with rows of seats, as well as chalkboards, a projector screen, and a piano at the front of the class.]({{< resource_file 339a0ab3-75fe-49c3-bc49-6e8f092108ca >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    21M.S53 was taught in a medium-sized classroom equipped with sliding chalkboards, projectors and screen, CD/DVD player and sound system, and a piano.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

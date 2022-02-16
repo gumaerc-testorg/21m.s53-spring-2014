@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Reading, Viewing, and Listening
 uid: 7103cb68-eb88-f95a-1ced-be866eb26c58
 ---

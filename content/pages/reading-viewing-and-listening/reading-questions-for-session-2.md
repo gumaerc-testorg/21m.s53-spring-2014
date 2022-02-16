@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Reading, Viewing, and Listening
+parent_type: CourseSection
 parent_uid: 7103cb68-eb88-f95a-1ced-be866eb26c58
 title: Reading Questions for Session 2
 uid: c22968d7-8b43-ba92-f595-dcaa45809848
