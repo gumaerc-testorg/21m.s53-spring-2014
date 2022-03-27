@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b8c0ab81-a76e-d0d5-d80e-84348fbc0a8b
 resourcetype: Document
 title: Final Project Guidelines for Chinese Popular Music in Dialogue
 uid: 6553ad37-064a-9ef5-b835-541dfa5dabe1

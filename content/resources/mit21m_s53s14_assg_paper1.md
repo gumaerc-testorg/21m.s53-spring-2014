@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b8c0ab81-a76e-d0d5-d80e-84348fbc0a8b
 resourcetype: Document
 title: 'Paper 1: Analysis of a Shidaiqu'
 uid: 94691e20-c7d2-be39-325c-c661b89ecf1a

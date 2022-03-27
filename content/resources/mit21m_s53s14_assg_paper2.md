@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b8c0ab81-a76e-d0d5-d80e-84348fbc0a8b
 resourcetype: Document
 title: 'Paper 2: Concert Report'
 uid: 292b4638-e553-4354-04ea-018dda3ee2c5

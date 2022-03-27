@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b8c0ab81-a76e-d0d5-d80e-84348fbc0a8b
 resourcetype: Document
 title: 'Paper 3: Fantasy Playlist/Mixtape'
 uid: d2a953c2-2e16-9c75-2685-c8e5a63af14d
