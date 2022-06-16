@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page provides the reading questions for lecture session 18.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
