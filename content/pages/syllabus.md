@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, learning objectives, prerequisites, responsibilities and requirements,
+  course conduct, accessible learning, the final project, readings, and related resources.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3c0463aa-f2af-7a44-30bf-e0339a51ad98
 ---
@@ -130,7 +135,7 @@ Jones, Andrew. _Yellow Music: Media Culture and Colonial Modernity in the Chines
 
 Lum, Casey Man Kong. _In Search of a Voice: Karaoke and the Construction of Identity in Chinese America_. Routledge, 1996. ISBN: 9780805819113. \[Preview with [Google Books](http://books.google.com/books?id=Sw_RWowymU8C&pg=PAfrontcover)\]
 
-Other assigned reading, viewing, and listening assignments can be found in the section of [Reading, Viewing, and Listening]({{< baseurl >}}/pages/reading-viewing-and-listening).
+Other assigned reading, viewing, and listening assignments can be found in the section of {{% resource_link 7103cb68-eb88-f95a-1ced-be866eb26c58 "Reading, Viewing, and Listening" %}}.
 
 Related Resources
 -----------------

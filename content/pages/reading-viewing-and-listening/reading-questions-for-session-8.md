@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This page provides the reading questions for lecture session 8.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Reading, Viewing, and Listening
+parent_type: CourseSection
 parent_uid: 7103cb68-eb88-f95a-1ced-be866eb26c58
 title: Reading Questions for Session 8
 uid: 742129c4-30e7-911f-9adc-6b6b8d32cd33

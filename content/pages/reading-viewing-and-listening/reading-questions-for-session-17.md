@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This page provides the reading questions for lecture session 17.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Reading, Viewing, and Listening
+parent_type: CourseSection
 parent_uid: 7103cb68-eb88-f95a-1ced-be866eb26c58
 title: Reading Questions for Session 17
 uid: 4538fe6f-9781-1968-a8c1-0e16f8db4aca

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a summary of the required supplemental reading,
+  viewing, and listening assignments for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Reading, Viewing, and Listening
 uid: 7103cb68-eb88-f95a-1ced-be866eb26c58
 ---
@@ -58,7 +63,7 @@ The Bright Lights of Shanghai
 
 ### Reading
 
-[Reading Questions for Session 2]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-2)
+{{% resource_link c22968d7-8b43-ba92-f595-dcaa45809848 "Reading Questions for Session 2" %}}
 
 Wong. "The Incantation of Shanghai." In _Global Goes Local: Popular Culture in Asia_. Edited by Timothy J. Craig and Richard King. University of Hawaii Press, 2003, pp. 246–64. ISBN: 9780824826116. \[Preview with [Google Books](http://books.google.com/books?id=bs0NPIzoZTkC&pg=PA246=onepage)\]
 
@@ -86,7 +91,7 @@ Decadent Sounds
 
 ### Reading
 
-[Reading Questions for Session 3]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-3)
+{{% resource_link 3a11fc9b-cf1d-50b1-c7a8-f0d8f1a774c8 "Reading Questions for Session 3" %}}
 
 \[Jones Music\] Chapters 1 and 2, pp. 21–72.
 
@@ -116,7 +121,7 @@ Li Jinhui, the Stars of _Shidaiqu_, and Perils of Performance
 
 ### Reading
 
-[Reading Questions for Session 4]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-4)
+{{% resource_link 3c4842c0-8d05-7fd6-8b8e-360b8beccb79 "Reading Questions for Session 4" %}}
 
 \[Jones Music\] Chapters 3 and 4, pp. 73–136.
 
@@ -172,7 +177,7 @@ The Sounds of Revolution
 
 ### Reading
 
-[Reading Questions for Session 6]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-6)
+{{% resource_link d08f006a-b8a2-b786-a47c-48f32b9db3af "Reading Questions for Session 6" %}}
 
 Mao, Zedong. "Talks at the Yan'an Conference on Literature and Art." (full text in English available [here](https://www.marxists.org/reference/archive/mao/selected-works/volume-3/mswv3_08.htm).)
 
@@ -204,7 +209,7 @@ Political Reform, Gangtai in the PRC, and the Rise of _Tongsu_
 
 ### Reading
 
-[Reading Questions for Session 7]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-7)
+{{% resource_link 5a19ded2-8bb3-477e-bb55-135a2206da9e "Reading Questions for Session 7" %}}
 
 Baranovitch, Nimrod. Chapter 1 in _China's New Voices: Popular Music, Ethnicity, Gender, and Politics, 1978–1997_. University of California Press, 2003, pp. 10–53. ISBN: 9780520234505. \[Preview with [Google Books](http://books.google.com/books?id=qJ_lqBQLIVIC&pg=PA10=onepage)\]
 
@@ -236,7 +241,7 @@ Nothing To My Name": Forays Into _Yaogun_
 
 ### Reading
 
-[Reading Questions for Session 8]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-8)
+{{% resource_link 742129c4-30e7-911f-9adc-6b6b8d32cd33 "Reading Questions for Session 8" %}}
 
 \[Jones Ideology\] Chapters 4 and 5, pp. 91–144.
 
@@ -292,7 +297,7 @@ Rocking On the Brink of the New Millennium
 
 ### Reading
 
-[Reading Questions for Session 10]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-10)
+{{% resource_link 22b0ebdc-4e97-53bf-5156-104d51760129 "Reading Questions for Session 10" %}}
 
 Huang, Hao. "[Voices from Chinese Rock, Past and Present Tense: Social Commentary and Construction of Identity in _Yaogun Yinyue_, from Tiananmen to the Present](http://dx.doi.org/10.1080/0300776032000095512)." _Popular Music and Society_ 26, no. 2 (2003): 183–202.
 
@@ -352,7 +357,7 @@ Sounding the Beautiful Island, Overview and Historical Foundations
 
 ### Reading
 
-[Reading Questions for Session 12]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-12)
+{{% resource_link 303ae030-74a4-5032-8e6d-1ab996553acf "Reading Questions for Session 12" %}}
 
 Hatfield, D. J. "Taiwan." In _Continuum Encyclopedia of Popular Music of the World_. Vol. 5. Edited by John Shepherd, David Horn, and David Laing. Bloomsbury Academic, 2005, pp. 51–54. ISBN: 9780826474360.
 
@@ -382,7 +387,7 @@ Popular Music and Cultural Politics in Taiwan
 
 ### Reading
 
-[Reading Questions for Session 13]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-13)
+{{% resource_link 08b471eb-767a-2586-393a-47d0253bd4b4 "Reading Questions for Session 13" %}}
 
 Guy, N. "[How Does 'Made in Taiwan' Sound? Popular Music and Strategizing the Sounds of a Multicultural Nation](https://www.zotero.org/groups/taiwanese_music/items/TWA7QHS2)." _Perfect Beat_ 5, no. 3 (2001): 1–17.
 
@@ -420,7 +425,7 @@ The Mandopop Mainstream
 
 ### Reading
 
-[Reading Questions for Session 14]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-14)
+{{% resource_link 7ef3b11b-8359-4936-4751-4bb0f292474f "Reading Questions for Session 14" %}}
 
 Moskowitz, M. L. "Mandopop Under Siege: Culturally Bound Criticisms of Taiwan's Pop Music." Chapter 7 in _Cries of Joy, Songs of Sorrow: Chinese Pop Music and Its Cultural Connotations_. University of Hawaii Press, 2010, pp. 69–83. ISBN: 9780824833695. \[Preview with [Google Books](http://books.google.com/books?id=iKolvnUOHegC&pg=PA102=onepage)\]
 
@@ -452,7 +457,7 @@ The Indie Underground
 
 ### Reading
 
-Hsu, W., and C. Sargent. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Rocking Out Between the Local and the Global: Transnational Independent Music Industry in Taiwan." (PDF - 6.2MB)](http://www.amalgam.virginia.edu/Vol%202%20Iss%201/39.pdf) _Amalgam: The Virginia Interdisciplinary Gradudate Review_ 2, no. 1 (2008): 38–52.
+Hsu, W., and C. Sargent. ["Rocking Out Between the Local and the Global: Transnational Independent Music Industry in Taiwan." (PDF - 6.2MB)](http://www.amalgam.virginia.edu/Vol%202%20Iss%201/39.pdf) _Amalgam: The Virginia Interdisciplinary Gradudate Review_ 2, no. 1 (2008): 38–52.
 
 Hagood, M. "[Liminal States: Life as an Indie Musician on Taiwan](http://hdl.handle.net/2022/3246)." _Folklore Forum_ 38, no. 1 (2008): 82–101.
 
@@ -502,7 +507,7 @@ Singing the Fragrant Harbor
 
 ### Reading
 
-[Reading Questions for Session 16]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-16)
+{{% resource_link dd59cdcd-2348-1ac3-6952-9bc4a7a39d22 "Reading Questions for Session 16" %}}
 
 McIntyre, et al. "[Cantopop: Voice of Hong Kong](http://dx.doi.org/10.1075/japc.12.2.03mci)." _Journal of Asian Pacific Communication_ 12, no. 2 (2002): 217–43.
 
@@ -530,7 +535,7 @@ Gendering Cantopop
 
 ### Reading
 
-[Reading questions for Session 17]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-17)
+{{% resource_link 4538fe6f-9781-1968-a8c1-0e16f8db4aca "Reading questions for Session 17" %}}
 
 Erni, J. N. "[Gender and Everyday Evasions: Moving With Cantopop](http://dx.doi.org/10.1080/14649370601119055)." _Inter-Asia Cultural Studies_ 8, no. 1 (2007): 86–108.
 
@@ -560,7 +565,7 @@ Sounds like Hong Kong? Language and Identity in Cantopop, Part 1
 
 ### Reading
 
-[Reading Questions for Session 18]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-18)
+{{% resource_link 2dc22939-360f-c850-9eea-6cc7769305d4 "Reading Questions for Session 18" %}}
 
 Chu, Y. W. "The Transformation of Local Identity in Hong Kong Cantopop." _Perfect Beat_ 7, no. 4: 32–51.
 
@@ -588,7 +593,7 @@ Sounds like Hong Kong? Language and Identity in Cantopop, Part 2
 
 ### Reading
 
-[Reading Questions for Session 19]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-19)
+{{% resource_link 07ef5cb2-49ed-6c2a-5962-1788eea19d06 "Reading Questions for Session 19" %}}
 
 Mitchell, T. "Tian ci: Faye Wong and English Songs in the Cantopop and Mandapop Repertoire." Conference paper, available on [Local Noise](https://www.yumpu.com/user/localnoise.net.au).
 
@@ -728,7 +733,7 @@ Karaoke Heroes in "Chinese" America, Part 1
 
 ### Reading
 
-[Reading Questions for Session 23]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-23)
+{{% resource_link da4a284e-b6ba-48be-e897-fafd16da74c8 "Reading Questions for Session 23" %}}
 
 \[Lum Karaoke\] Chapters 1–3, pp. 1–53.
 
@@ -752,7 +757,7 @@ Karaoke Heroes in "Chinese" America, Part 2
 
 ### Reading
 
-[Reading Questions for Session 24]({{< baseurl >}}/pages/reading-viewing-and-listening/reading-questions-for-session-24)
+{{% resource_link af8b07bf-78df-4f0d-9ceb-2d3691069e00 "Reading Questions for Session 24" %}}
 
 \[Lum Karaoke\] Chapters 4–6, pp. 54–113.
 
