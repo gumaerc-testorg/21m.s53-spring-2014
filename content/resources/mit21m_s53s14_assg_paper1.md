@@ -5,6 +5,7 @@ file: /courses/21m-s53-chinese-popular-musics-in-dialogue-spring-2014/94691e20c7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Paper 1: Analysis of a Shidaiqu'
 uid: 94691e20-c7d2-be39-325c-c661b89ecf1a
 ---
 This resource contains the information regarding analysis of a Shidaiqu.
-

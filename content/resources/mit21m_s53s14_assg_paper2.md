@@ -5,6 +5,7 @@ file: /courses/21m-s53-chinese-popular-musics-in-dialogue-spring-2014/292b4638e5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Paper 2: Concert Report'
 uid: 292b4638-e553-4354-04ea-018dda3ee2c5
 ---
 This resource contains the information regarding concert report.
-
