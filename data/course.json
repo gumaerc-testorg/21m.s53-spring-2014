@@ -43,8 +43,10 @@
     "website": "21m-s53-chinese-popular-musics-in-dialogue-spring-2014"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "79d613d0-796e-456f-bf8d-a22dd9b64bef",
+  "site_uid": "68cdfb85-0875-4d33-830b-6f86c1e2186c",
+  "site_short_id": "21m.s53-spring-2014",
   "title": "Course Metadata"
 }
