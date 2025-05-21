@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding final project guidelines
   for chinese popular music in dialogue.
-file: /ol-ocw-studio-app/courses/21m-s53-chinese-popular-musics-in-dialogue-spring-2014/6553ad37064a9ef5b835541dfa5dabe1_MIT21M_S53S14_Final_Proj.pdf
+file: /courses/21m-s53-chinese-popular-musics-in-dialogue-spring-2014/6553ad37064a9ef5b835541dfa5dabe1_MIT21M_S53S14_Final_Proj.pdf
 file_size: 102970
 file_type: application/pdf
 learning_resource_types:

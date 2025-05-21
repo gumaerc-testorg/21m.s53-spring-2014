@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-s53-chinese-popular-musics-in-dialogue-spring-2014/602e411a6b90738f8a451c2733a0437b_21M-S53_stat-students.png
+file: /courses/21m-s53-chinese-popular-musics-in-dialogue-spring-2014/602e411a6b90738f8a451c2733a0437b_21M-S53_stat-students.png
 file_size: 2955
 file_type: image/png
 image_metadata:
