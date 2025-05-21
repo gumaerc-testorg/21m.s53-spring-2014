@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding analysis of a Shidaiqu.
-file: /ol-ocw-studio-app/courses/21m-s53-chinese-popular-musics-in-dialogue-spring-2014/94691e20c7d2be39325cc661b89ecf1a_MIT21M_S53S14_Assg_Paper1.pdf
+file: /courses/21m-s53-chinese-popular-musics-in-dialogue-spring-2014/94691e20c7d2be39325cc661b89ecf1a_MIT21M_S53S14_Assg_Paper1.pdf
 file_size: 85469
 file_type: application/pdf
 learning_resource_types:
