@@ -85,7 +85,7 @@ Li Jinhui, the Stars of *Shidaiqu*, and Perils of Performance
 
 \[Jones Music\] Chapters 3 and 4, pp. 73–136.
 
-Suggested: Steen, A. "[Tradition, Politics and Meaning in 20th Century China's Popular Music: Zhou Xuan—When Will the Gentleman Come Back Again?](http://pure.au.dk/portal/en/publications/tradition-politics-and-meaning-in-20th-century-chinas-popular-music-zhou-xuan-when-will-the-gentleman-come-back-again(2337eb70-d31a-11dc-abe4-000ea68e967b).html)" *Chime*, no. 14–15 (2000): 125–53.
+Suggested: Steen, A. "[Tradition, Politics and Meaning in 20th Century China's Popular Music: Zhou Xuan—When Will the Gentleman Come Back Again?](http://pure.au.dk/portal/en/publications/tradition-politics-and-meaning-in-20th-century-chinas-popular-music-zhou-xuan-when-will-the-gentleman-come-back-again%282337eb70-d31a-11dc-abe4-000ea68e967b%29.html)" *Chime*, no. 14–15 (2000): 125–53.
 
 Suggested: Stock, J. "[Reconsidering the Past: Zhou Xuan and the Rehabilitation of Early Twentieth-Century Popular Music](http://www.jstor.org/stable/834436)." *Asian Music* 26, no. 2 (1995): 119–35.
 
@@ -363,7 +363,7 @@ Singing the Fragrant Harbor
 
 McIntyre, et al. "[Cantopop: Voice of Hong Kong](http://dx.doi.org/10.1075/japc.12.2.03mci)." *Journal of Asian Pacific Communication* 12, no. 2 (2002): 217–43.
 
-Chow, S. Y.-W. "[Before and After the Fall: Mapping Hong Kong Cantopop in the Global Era](http://repository.hkbu.edu.hk/lewi_wp/10/)." *LEWI Working Paper Series*, no. 63 (2007): 1–17. \[Hong Kong: David C. Lam Institute for East-West Studies.\]
+Chow, S. Y.-W. "[Before and After the Fall: Mapping Hong Kong Cantopop in the Global Era](https://scholars.hkbu.edu.hk/en/publications/before-and-after-the-fall-mapping-hong-kong-cantopop-in-the-globa-9)." *LEWI Working Paper Series*, no. 63 (2007): 1–17. \[Hong Kong: David C. Lam Institute for East-West Studies.\]
 
 ### Listening
 
