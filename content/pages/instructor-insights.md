@@ -13,7 +13,7 @@ uid: dbc0ee52-ebc3-2b0a-7e5f-4267b5bbd12d
 
 This page focuses on the course _21M.S53 Chinese Popular Musics in Dialogue_ as it was taught by Dr. Meredith Schweig in Spring 2014.
 
-This course introduced students to the major popular music cultures of the Chinese-speaking world. Emphasis was placed on listening beyond the notion of a monolithic “Chinese popular music” to something more dynamic, multivocal, and translocal. Interactive experiences, including contributing to a class blog, creating multimedia compositions through the use of [Scalar](http://scalar.usc.edu/scalar/), and conducting participant observation at a concert, were at the core of this course.
+This course introduced students to the major popular music cultures of the Chinese-speaking world. Emphasis was placed on listening beyond the notion of a monolithic “Chinese popular music” to something more dynamic, multivocal, and translocal. Interactive experiences, including contributing to a class blog, creating multimedia compositions through the use of {{% resource_link "4c5b72ed-6fb4-4514-8761-71646f593aac" "Scalar" %}}, and conducting participant observation at a concert, were at the core of this course.
 
 ## Course Outcomes
 
@@ -45,7 +45,7 @@ _21M.S53 Chinese Popular Musics in Dialogue_ was offered for the first time in S
 The students' grades were based on the following activities:
 
 - 30% Attendance and class participation
-- 5% Contributions to the class [Tumblr](https://www.tumblr.com/)
+- 5% Contributions to the class {{% resource_link "1253171c-0dfc-4ca2-84e3-cd3c78bf4369" "Tumblr" %}}
 - 25% Short written assignments
 - 40% Multimedia research project & accompanying oral presentation
 
