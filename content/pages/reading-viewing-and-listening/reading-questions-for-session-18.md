@@ -24,7 +24,7 @@ Please select 8 of these questions to answer in a few sentences and generate two
 6.  How are Hong Kong people's feelings towards the coming reunification articulated through Cantopop during that period?
 7.  What was the "June Fourth Wave"?
 8.  Why did labels like Taiwan's Rock Records eventually pull out of the Hong Kong Cantopop market?
-9.  Listen to and watch the video for Andy Lau's song "Chinese" ({{% resource_link "e53f3b9e-2bbd-4a12-902e-dae73e6bc16a" "http://www.youtube.com/watch?v=dZUVGtSouCc" %}}). How is it similar to or different from the look and sound of the tongsu music we listened to earlier in the semester?
+9.  Listen to and watch the video for Andy Lau's song "Chinese" ([http://www.youtube.com/watch?v=dZUVGtSouCc](http://www.youtube.com/watch?v=dZUVGtSouCc)). How is it similar to or different from the look and sound of the tongsu music we listened to earlier in the semester?
 
 "Cantopop and Mandapop in Pre-Postcolonial Hong Kong"
 -----------------------------------------------------
