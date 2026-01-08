@@ -22,7 +22,7 @@ This course provides an introduction to the major popular music cultures of the 
 Learning Objectives
 -------------------
 
-Beyond gaining familiarity with the musical repertoire under discussion, a central goal of this course is for us to become conversant in the new scholarship about Chinese popular musics. Most of the texts we will discuss this semester were written after the turn of the twenty-first century, a reflection not only of the recent growth of popular music studies but also of increasing attention to the Chinese-speaking world as a key participant in the global circulation of ideas and cultural products. We will contemplate the sounds and subjects that have thus far been absent from the discourse, and consider how we as young scholars might work to push the conversation in new and interesting directions. Writing and listening assignments will facilitate the development of skills for popular music analysis and research, including the critical use and evaluation of online sources. For the purposes of the final course project, we will learn how to integrate writing and rich media content in the powerful Web publishing tool {{% resource_link "a4b19720-a773-478b-b454-33e0ee704bff" "Scalar" %}}.
+Beyond gaining familiarity with the musical repertoire under discussion, a central goal of this course is for us to become conversant in the new scholarship about Chinese popular musics. Most of the texts we will discuss this semester were written after the turn of the twenty-first century, a reflection not only of the recent growth of popular music studies but also of increasing attention to the Chinese-speaking world as a key participant in the global circulation of ideas and cultural products. We will contemplate the sounds and subjects that have thus far been absent from the discourse, and consider how we as young scholars might work to push the conversation in new and interesting directions. Writing and listening assignments will facilitate the development of skills for popular music analysis and research, including the critical use and evaluation of online sources. For the purposes of the final course project, we will learn how to integrate writing and rich media content in the powerful Web publishing tool [Scalar](http://scalar.usc.edu).
 
 Prerequisites
 -------------
@@ -106,9 +106,9 @@ Multimedia research project and oral presentation
 Course Conduct
 --------------
 
-Laptops and tablets are permitted in the classroom but I ask you to refrain from the use of all texting, instant messaging, and social media applications during our meetings. This is to ensure that we all remain as present and invested as possible in class discussions. Abuse of this policy will affect your participation grade. If you simply can't resist logging on to Facebook or Twitter during class time, I encourage you to download an app like {{% resource_link "269bd3b1-b5f7-4c06-aec8-33c378a2a17e" "SelfControl" %}} (for Mac users), which allows you to block your own access to mail servers and distracting websites for a period of time that you determine.
+Laptops and tablets are permitted in the classroom but I ask you to refrain from the use of all texting, instant messaging, and social media applications during our meetings. This is to ensure that we all remain as present and invested as possible in class discussions. Abuse of this policy will affect your participation grade. If you simply can't resist logging on to Facebook or Twitter during class time, I encourage you to download an app like [SelfControl](http://selfcontrolapp.com/) (for Mac users), which allows you to block your own access to mail servers and distracting websites for a period of time that you determine.
 
-Please remember that **plagiarism** is a serious academic offense, involving the unacknowledged use of another person's intellectual work by quotation, paraphrase, or summary. Keep in mind that citation guidelines for the kinds of online materials you might want to reference in your assignments, including video clips and music, are constantly evolving. If none of the resources I have provided answer your questions about how to properly acknowledge a particular source, don't hesitate to ask me. For further information, visit {{% resource_link "6a4e9814-ba54-40de-948f-b3e0a017b5cd" "MIT's Academic Integrity policy website" %}}.
+Please remember that **plagiarism** is a serious academic offense, involving the unacknowledged use of another person's intellectual work by quotation, paraphrase, or summary. Keep in mind that citation guidelines for the kinds of online materials you might want to reference in your assignments, including video clips and music, are constantly evolving. If none of the resources I have provided answer your questions about how to properly acknowledge a particular source, don't hesitate to ask me. For further information, visit [MIT's Academic Integrity policy website](https://integrity.mit.edu/).
 
 Accessible Learning
 -------------------
@@ -129,17 +129,17 @@ There are three required texts for this class.
 
 ### Required
 
-Jones, Andrew. _Yellow Music: Media Culture and Colonial Modernity in the Chinese Jazz Age_. Duke University Press, 2001. \[Preview with {{% resource_link "5e239f4e-f4e6-4498-a806-05a45c871e87" "Google Books" %}}\]
+Jones, Andrew. _Yellow Music: Media Culture and Colonial Modernity in the Chinese Jazz Age_. Duke University Press, 2001. \[Preview with [Google Books](http://books.google.com/books?id=aIDzyVzb9r4C&pg=PAfrontcover)\]
 
 ———. _Like a Knife: Ideology and Genre in Contemporary Chinese Popular Music_. Cornell University, 1992. ISBN: 9780939657575.
 
-Lum, Casey Man Kong. _In Search of a Voice: Karaoke and the Construction of Identity in Chinese America_. Routledge, 1996. ISBN: 9780805819113. \[Preview with {{% resource_link "733b6d5f-8909-4d6c-bdc4-74c9d8988247" "Google Books" %}}\]
+Lum, Casey Man Kong. _In Search of a Voice: Karaoke and the Construction of Identity in Chinese America_. Routledge, 1996. ISBN: 9780805819113. \[Preview with [Google Books](http://books.google.com/books?id=Sw_RWowymU8C&pg=PAfrontcover)\]
 
 Other assigned reading, viewing, and listening assignments can be found in the section of {{% resource_link 7103cb68-eb88-f95a-1ced-be866eb26c58 "Reading, Viewing, and Listening" %}}.
 
 Related Resources
 -----------------
 
-{{% resource_link "6174a22f-64c8-44b5-ba17-4c3b00d4855b" "Plagiarism.org" %}}
+[Plagiarism.org](https://www.plagiarism.org/)
 
-{{% resource_link "391fa3d0-33b1-4300-a451-931924e9fd93" "MIT Lewis Music Library Research Guide to World Music" %}}
+[MIT Lewis Music Library Research Guide to World Music](http://libguides.mit.edu/world-music)
